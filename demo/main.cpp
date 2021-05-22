@@ -42,7 +42,7 @@ int main() {
        i = 2;
    }
    else if (i == 2) {
-       servo_control(44.43);
+       servo_control(-40.43);
        i = 1;
    }
    //servo_control(37.22);
